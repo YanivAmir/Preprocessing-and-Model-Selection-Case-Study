@@ -9,10 +9,9 @@ Improve a model that predicts customer retention. The existing model is based on
 ## Method
 Develop a baseline Logistic Regression model and attempt to improve on that model using more advanced preprocessing and regularization techniques. Suggest a different model, Random Forest, which may be more suitable for this particular task. Extract Feature Importance to identify key insights for product and marketing teams. Potentially Use SVM / XGBoost to compare and impove.
 
-Tech used:
+#### Tech used
 
-<img alt="Python" src="https://img.shields.io/badge/Python-3776ab?logo=python&logoColor=white&style-flat">
-<img alt="scikit-learn" src="https://img.shields.io/badge/Scikit-f7931e?logo=scikit-learn&logoColor=white&style-flat">
+<img alt="Python" src="https://img.shields.io/badge/Python-3776ab?logo=python&logoColor=white&style-flat"><img alt="scikit-learn" src="https://img.shields.io/badge/Scikit-f7931e?logo=scikit-learn&logoColor=white&style-flat">
 <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013242?logo=numpy&logoColor=white&style-flat">
 <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style-flat">
 <img alt="SciPy" src="https://img.shields.io/badge/SciPy-8CAAE6?logo=SciPy&logoColor=white&style-flat">
